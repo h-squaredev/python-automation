@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.pdf
+*.PDF
+*.xlsx
+*.xls
+*.csv
+relatorios/
+dados/
+.DS_Store
+Thumbs.db
